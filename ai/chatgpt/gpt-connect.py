@@ -2,7 +2,7 @@ import ai
 import openai
 # Apply the API key
 
-
+openai.api_key = "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"
 # Define the text prompt
 prompt = "In a shocking turn of events, scientists have discovered that "
 
